@@ -1,9 +1,11 @@
 from turtle import *
 width(5)
 color("purple")
+shape("turtle")
 
 forward(200)
-speed(30)
+speed(5)
+
 
 left(90)
 forward(200)
@@ -49,7 +51,7 @@ left(90)
 left(90)
 right(45)
 forward(73)
-color("blue")
+color("brown")
 begin_fill()
 left(90)
 forward(98)
