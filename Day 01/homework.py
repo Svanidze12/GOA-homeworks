@@ -1,7 +1,5 @@
 name = "andria"
-
 surname = "svanidze"
-
 age = 15
 
 #printeverything

@@ -4,7 +4,7 @@ color("purple")
 shape("turtle")
 
 forward(200)
-speed(5)
+speed(30)
 
 
 left(90)
@@ -108,6 +108,10 @@ left(90)
 forward(20)
 left(90)
 forward(40)
+
+
+
+
 
 
 exitonclick()
