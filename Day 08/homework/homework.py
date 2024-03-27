@@ -12,6 +12,3 @@ if password != repeat_password:
 else: 
     print("sheesabameba")
     
-
-
-
