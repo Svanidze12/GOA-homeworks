@@ -8,4 +8,4 @@ def calculate_arithmetic(lst):
 
 
 my_list = [1, 2, 3, 4, 5]
-calculate_arithmetic(my_list)
+calculate_arithmetic(my_list)#[1,2,3,4,5]

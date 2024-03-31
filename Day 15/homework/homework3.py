@@ -10,3 +10,4 @@ def palidrome(word):
 
 word = input("enter your word here: ")
 palidrome(word)
+

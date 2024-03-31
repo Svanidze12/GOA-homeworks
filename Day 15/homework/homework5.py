@@ -4,16 +4,16 @@
 
 
 def num(numbers):
-    num = 0
+    nums = 0
     listn = []
     for i in numbers:
         if i >= 0:
-            num = num + i 
+            nums = nums + i 
         else:
             listn.append(i)
             
     print("negative number lenght is ",len(listn))
-    print("postive numbers sum is",num)
+    print("postive numbers sum is",nums)
 
 
 my_list = [1, 3, 5, -1, -5]
