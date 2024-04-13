@@ -8,7 +8,7 @@ password = input("enter your pass here: ")
 repeat_password = input("enter your password again: ")
 
 if password != repeat_password:
-    print("ar sheesabameba")
+    print("ar sheesabameba tavidan cade")
 else: 
-    print("sheesabameba")
+    print("correct")
     

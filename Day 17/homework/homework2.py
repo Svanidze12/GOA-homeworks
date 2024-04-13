@@ -9,5 +9,5 @@ def all(functions):
 
 
 
-sentence = "hello"
+sentence = "karate"
 print(all(sentence))
