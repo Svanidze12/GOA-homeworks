@@ -88,7 +88,7 @@ forward(40)
 
 
 penup()
-goto(70, 140)
+goto(60, 140)
 pendown()
 left(90)
 forward(40)
@@ -108,7 +108,8 @@ left(90)
 forward(20)
 left(90)
 forward(40)
-
+penup()
+goto(1212121212,1212121212)
 
 
 
