@@ -1,0 +1,242 @@
+header {
+	padding: 55px;
+}
+
+.htmllogo {
+	margin-right: 60px;
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+	background-color: rgba(96, 105, 189, 0.308);
+}
+
+li {
+	display: inline-block;
+	margin-right: 87px;
+}
+
+a {
+	color: #8D81FF;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.active {
+	color: #4E6FAE;
+}
+
+.s-1 {
+	padding: 0 55px;
+}
+
+.mydate {
+	width: 50px;
+	height: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-family: Helvetica;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding: 10px;
+	margin-bottom: 26px;
+}
+
+h3 {
+	color: #8D81FF;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-bottom: 10px;
+}
+
+h4 {
+	color: #4E6FAE;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-bottom: 15px;
+}
+
+.codepic {
+	margin-right: 66px;
+}
+
+.pdiv {
+	display: inline-block;
+	width: 778px;
+	vertical-align: top;
+}
+
+p {
+	margin-bottom: 15px;
+	color: #4E6FAE;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.contact {
+	width: 474px;
+	height: 34px;
+	flex-shrink: 0;
+	color: #4E6FAE;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	text-align: center;
+	padding-left: 25px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	padding-right: 25px;
+	margin-left: 250px;
+}
+
+.contact2 {
+	width: 390px;
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	text-align: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 30px;
+	margin-left: 290px;
+}
+
+.contactdiv {
+	background: #E7E7E7;
+	width: 1660px;
+    height: 735px;
+}
+
+.googlemap {
+	float: right;
+	margin-right: 180px;
+}
+
+.html2 {
+	margin-left: 192px;
+	margin-top: 112px;
+}
+
+.webdev {
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	margin-left: 194px;
+}
+
+.webdevtext1 {
+	width: 490px;
+	color: #3F4145;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-left: 23px;
+	padding-top: 21px;
+	padding-right: 170px;
+}
+
+.webdevtext2 {
+	bottom: 50px;
+	left: 90px;
+	position: relative;
+	width: 350px;
+	height: 45px;
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.webdevimage {
+width: 77px;
+height: 77px;
+}
+
+.webdev2 {
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+    float: right;
+	margin-right: 180px;
+}
+
+.webdevtext3 {
+	width: 490px;
+	color: #3F4145;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	padding-left: 23px;
+	padding-top: 21px;
+	padding-right: 170px;
+}
+
+.webdevtext4 {
+	bottom: 50px;
+	left: 90px;
+	position: relative;
+	width: 350px;
+	height: 45px;
+	color: #7E8898;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 16px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+}
+
+.siaxleebi {
+	width: 500px;
+	height: 34px;
+	color: #4E6FAE;
+	font-family: "Helvetica Neue LT GEO";
+	font-size: 26px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+
+.newsdiv {
+	margin-left: 194px;
+	margin-top: 103px;
+	margin-bottom: 26px;
+}
+
+.qure {
+	width: 77px;
+	height: 77px;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+
+@font-face {
+	font-family: "Helvetica Neue LT GEO";
+	src: url(alk-rex-bold-webfont.ttf);
+}
