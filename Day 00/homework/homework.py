@@ -4,7 +4,7 @@ color("purple")
 shape("turtle")
 
 forward(200)
-speed(30)
+speed(5)
 
 
 left(90)
@@ -64,7 +64,7 @@ end_fill()
 
 
 penup()
-goto(140, 140)
+goto(140,140)
 pendown()
 
 left(90)
