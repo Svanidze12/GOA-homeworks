@@ -8,5 +8,3 @@ def friend(x):
             lst.append(i)
     return lst
     
-
-

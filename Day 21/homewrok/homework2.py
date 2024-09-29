@@ -18,3 +18,11 @@ def bmi(weight, height):
         return "Overweight"
     else:
         return "Obese"
+    
+
+
+def sum_num(a, b, c):
+    sum_all = a + b + c
+    print(sum_all)
+
+sum_num(1, 2, 3,)

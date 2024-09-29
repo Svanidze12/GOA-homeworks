@@ -9,3 +9,5 @@ def find_short(s):
             word_len = len(word)
             print(word_len)
     return word_len
+
+
